@@ -31,11 +31,11 @@ class Notifications extends Component {
           <div className={css(styles.Notifications)}>
             <button
               style={{
-                color: "#3e3a3a",
+                color: "#3a3a3a",
                 fontWeight: "bold",
                 background: "none",
                 border: "none",
-                fontSize: "16px",
+                fontSize: "15px",
                 position: "absolute",
                 right: "3px",
                 top: "3px",
